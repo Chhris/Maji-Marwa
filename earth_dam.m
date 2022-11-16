@@ -1,3 +1,15 @@
+%{
+** DISCLAIMER **
+THIS CODE IS A WORK-IN-PROGRESS AND SHOULD NOT BE USED IN ANY ENGINEERING DESIGN WORK.
+%}
+
+%{
+** ABOUT THIS SCRIPT FILE **
+This code is written for the design of a a small homogenous earthen dam in rural Tanzania.
+The purpose of the script file is to produce dam dimensions based on constants observed in the field.
+The methodology used in this design is from the book 'Design of Small Dams' written by the United States Bureau of Reclamation.
+%}
+
 % ALL VALUES IN FEET
 
 % CONSTANTS ---------------------------------------------------
