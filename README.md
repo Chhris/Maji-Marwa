@@ -8,5 +8,5 @@ The village experiences wet and dry seasons throughout the year. During the wet 
 ## Result
 You can view our [final report on this project here.](https://cemmett.com/files/MajiMarwaFinalReport.pdf)
 
-### Disclaimer
+## Disclaimer
 Any code in this repository is should be used as a reference and not used in any structural geotechnical design without thorough code review
